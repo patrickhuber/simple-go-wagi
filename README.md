@@ -4,9 +4,9 @@ Using the WAGI cli, to host a simple go application compiled to wasm using tinyg
 
 Prerequisites:
 
-* Install Tinygo
-* Install wagi
-* Install binaryen # tinygo should install this
+* [Install Tinygo](https://tinygo.org/getting-started/install/)
+* [Install wagi](https://github.com/deislabs/wagi/releases)
+* [Install binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_108) # tinygo should install this
 
 ## Troubleshooting
 
