@@ -1,0 +1,5 @@
+default_host = "localhost:5050"
+
+[[module]]
+route = "/"
+module = "test.wasm"
