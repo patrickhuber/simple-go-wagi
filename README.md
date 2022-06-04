@@ -16,7 +16,16 @@ tinygo build -o test.wasm --target wasi main.go
 
 ## Running
 
+> bash
+
 ```bash
+# this will start listening on port 3000
+wagi -c ./modules.toml
+```
+
+> powershell
+
+```powershell
 # this will start listening on port 3000
 wagi -c .\modules.toml
 ```
